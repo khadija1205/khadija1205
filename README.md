@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **Learning backend**
 
-- Connect with me [https://www.linkedin.com/in/khadijachichkar/](https://www.linkedin.com/in/khadijachichkar/)
-
 - 💬 Ask me about **Javascript,cpp,reactjs,nodejs**
 
 - 📫 How to reach me **khadijac101@gmail.com**
