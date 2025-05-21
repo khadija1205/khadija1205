@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cpp, MERN stack**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
 - 🤝 I’m looking for help with **Learning backend**
 
