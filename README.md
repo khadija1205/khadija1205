@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Software Developer </h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🔭 I’m currently working on **Fullstack**
+- I’m currently working on **Fullstack**
 
-- 🌱 I’m currently learning **Cpp, MERN stack**
+- I’m currently learning **Cpp, MERN stack**
 
-- 👯 I’m looking to collaborate on **FullStack Projects**
+- I’m looking to collaborate on **FullStack Projects**
 
-- 🤝 I’m looking for help with **Learning backend**
+- I’m looking for help with **Learning backend**
 
-- 💬 Ask me about **Javascript,cpp,reactjs,nodejs**
+- Ask me about **Javascript,cpp,reactjs,nodejs**
 
-- 📫 How to reach me **khadijac101@gmail.com**
+- How to reach me **khadijac101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
