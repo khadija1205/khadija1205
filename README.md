@@ -34,7 +34,7 @@
   <em>Building web applications with JavaScript, React, and Node.js</em>
 </p>
 
-Software developer with 1.5 years of experience building web applications using React, Node.js, and MongoDB. Focused on writing clean code and delivering functional solutions.
+
 
 - 🔨 Working with **React, Node.js, Express, MongoDB**
 
