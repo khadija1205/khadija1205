@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
 
 
 <p align="center">
@@ -58,4 +58,73 @@ Check out my pinned repositories below for live projects and code samples.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadija1205&show_icons=true&locale=en&layout=compact&hide=html,css" alt="khadija1205" />
+</p> -->
+
+
+
+<h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
+
+<p align="center">
+  <em>Data Engineer | Full-Stack Developer</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/khadijachichkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khadijac101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💻 What I Do
+
+Building ETL pipelines and web applications. I work with cloud infrastructure, data processing, and full-stack development.
+
+**Focus areas:** PySpark, Azure, MERN stack, SQL
+
+---
+
+## 🛠️ Tech Stack
+
+**Data & Cloud:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Full-Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadija1205&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadija1205&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=html,css" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📫 Get In Touch
+
+📧 khadijac101@gmail.com  
+💼 [linkedin.com/in/khadijachichkar](https://linkedin.com/in/khadijachichkar)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khadija1205&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
