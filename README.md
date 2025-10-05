@@ -19,7 +19,6 @@
 
 Building ETL pipelines and web applications. I work with cloud infrastructure, data processing, and full-stack development.
 
-**Focus areas:** PySpark, Azure, MERN stack, SQL
 
 ---
 
