@@ -54,15 +54,3 @@ Building ETL pipelines and web applications. I work with cloud infrastructure, d
 
 ---
 
----
-
-## 📫 Get In Touch
-
-📧 khadijac101@gmail.com  
-💼 [linkedin.com/in/khadijachichkar](https://linkedin.com/in/khadijachichkar)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khadija1205&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
