@@ -109,12 +109,6 @@ Building ETL pipelines and web applications. I work with cloud infrastructure, d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadija1205&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadija1205&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=html,css" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
@@ -125,6 +119,3 @@ Building ETL pipelines and web applications. I work with cloud infrastructure, d
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khadija1205&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
