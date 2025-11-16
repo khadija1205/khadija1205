@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
 
 <p align="center">
-  <em>Data Engineer | Full-Stack Developer</em>
+  <em>Sofware Developer | Data Engineer</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 💻 What I Do
 
-Building ETL pipelines and web applications. I work with cloud infrastructure, data processing, and full-stack development.
+Building scalable web applications and backend systems. I work with cloud infrastructure, microservices, and full-stack development
 
 
 ---
