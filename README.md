@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
 
 <p align="center">
-  <em>Sofware Developer | Data Engineer</em>
+  <em>Software Developer | Data Engineer</em>
 </p>
 
 <p align="center">
