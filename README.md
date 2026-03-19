@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadija Chichkar</h1>
 <p align="center">
-  <em>Software Developer | Building scalable web apps and cloud solutions</em>
+  <em>Software Engineer | Building scalable backend systems & event-driven microservices</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 💻 What I Do
 
-I build scalable web applications, REST APIs, and cloud-based integrations. Currently focused on full-stack development with React and Node.js, while working with AWS and Azure for cloud infrastructure.
+Software Engineer focused on scalable backend systems, event-driven microservices, and cloud infrastructure. Currently building with Java, Node.js, React · AWS · Azure
 
 ---
 
