@@ -16,7 +16,7 @@
 
 ## 💻 What I Do
 
-Software Engineer focused on scalable backend systems, event-driven microservices, and cloud infrastructure. Currently building with Java, Node.js, React · AWS · Azure
+Software Engineer focused on scalable backend systems, event-driven microservices, and cloud infrastructure. Currently building with Java, Node.js, React · AWS 
 
 ---
 
