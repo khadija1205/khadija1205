@@ -16,7 +16,8 @@
 
 ## 💻 What I Do
 
-**I am a Software Engineer with 2+ years of experience in Java/Spring Boot backend systems, AWS cloud architecture, and multi-tenant SaaS platforms across healthcare and enterprise domains**
+I am a Software Engineer with 2+ years of experience in Java/Spring Boot backend systems, AWS cloud architecture, and multi-tenant SaaS platforms across healthcare and enterprise domains.
+
 ---
 
 ## 🛠️ Tech Stack
